@@ -77,7 +77,7 @@
     +   [十、100 倍爬取](docs/go-web-scrap-quick-start-guide/8.md)
 +   [Go 高性能实用指南](docs/handson-hiperf-go/README.md)
     +   [零、前言](docs/handson-hiperf-go/00.md)
-    +   [第一部分：学习Go中的性能](docs/handson-hiperf-go/sec1.md)
+    +   [第一部分：学习 Go 中的性能](docs/handson-hiperf-go/sec1.md)
         +   [一、Go 性能简介](docs/handson-hiperf-go/01.md)
         +   [二、数据结构和算法](docs/handson-hiperf-go/02.md)
         +   [三、理解并发性](docs/handson-hiperf-go/03.md)
