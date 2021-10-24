@@ -1,35 +1,3 @@
-<!--
-    需要填充的占位符：
-    
-    README.md
-    
-        ApacheCN Golang 译文集：文档中文名
-        {nameEn}：文档英文名
-        {urlEn}：文档原始链接
-        go：域名前缀
-        飞龙：负责人名称
-        wizardforcel：负责人 Github 用户名
-        562826179：负责人 QQ
-        apachecn-golang-zh：ApacheCN 的 Github 仓库名称
-        apachecn-golang-zh：DockerHub 仓库名称
-        apachecn-golang-zh：PYPI 包名称
-        apachecn-golang-zh：NPM 包名称
-    
-    CNAME
-    
-        go：域名前缀
-
-    index.html
-    
-        ApacheCN Golang 译文集：文档中文名
-        {color}：显示颜色
-        apachecn-golang-zh：ApacheCN 的 Github 仓库名称
-
-    asset/docsify-apachecn-footer.js
-    
-        apachecn-golang-zh：ApacheCN 的 Github 仓库名称
--->
-
 # ApacheCN Golang 译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -39,6 +7,18 @@
 * [在线阅读](https://go.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
+
+## 目录
+
++   [Go 云原生编程](docs/cloud-native-prog-go/SUMMARY.md)
++   [Go 分布式计算](docs/dist-comp-go/SUMMARY.md)
++   [Go 编程秘籍](docs/go-prog-cb/SUMMARY.md)
++   [Go 标准库秘籍](docs/go-std-lib-cb/SUMMARY.md)
++   [Go Web 开发秘籍](docs/go-web-dev-cb/SUMMARY.md)
++   [Go Web 爬虫快速启动指南](docs/go-web-scrap-quick-start-guide/SUMMARY.md)
++   [Go 高性能实用指南](docs/handson-hiperf-go/SUMMARY.md)
++   [Go 系统编程实用指南](docs/handson-sys-prog-go/SUMMARY.md)
++   [Go 函数式编程学习手册](docs/learn-func-prog-go/SUMMARY.md)
 
 ## 贡献指南
 
