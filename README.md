@@ -19,6 +19,12 @@
 +   [Go 高性能实用指南](docs/handson-hiperf-go/SUMMARY.md)
 +   [Go 系统编程实用指南](docs/handson-sys-prog-go/SUMMARY.md)
 +   [Go 函数式编程学习手册](docs/learn-func-prog-go/SUMMARY.md)
++   [构建 Go REST Web 服务](docs/build-rest-websvc-go/SUMMARY.md)
++   [Go 编程蓝图](docs/go-prog-blueprint/SUMMARY.md)
++   [Go 系统编程](docs/go-sys-prog/SUMMARY.md)
++   [Go 无服务应用实用指南](docs/handson-svrless-app-go/SUMMARY.md)
++   [精通 Go 并发](docs/master-concur-go/SUMMARY.md)
++   [Go 和安全](docs/sec-go/SUMMARY.md)
 
 ## 贡献指南
 
