@@ -25,6 +25,14 @@
 +   [Go 无服务应用实用指南](docs/handson-svrless-app-go/SUMMARY.md)
 +   [精通 Go 并发](docs/master-concur-go/SUMMARY.md)
 +   [Go 和安全](docs/sec-go/SUMMARY.md)
++   [Go 设计模式](docs/go-design-ptn/SUMMARY.md)
++   [Go 依赖注入实用指南](docs/handson-dep-inj-go/SUMMARY.md)
++   [Go 深度学习实用指南](docs/handson-dl-go/SUMMARY.md)
++   [同构的 Go 应用](docs/iso-go/SUMMARY.md)
++   [Go 编程学习手册](docs/learn-go-prog/SUMMARY.md)
++   [Go Web 开发学习手册](docs/learn-go-web-dev/SUMMARY.md)
++   [精通 Go Web 服务](docs/master-go-websvc/SUMMARY.md)
++   [Go 机器学习](docs/ml-go/SUMMARY.md)
 
 ## 贡献指南
 
