@@ -33,6 +33,7 @@
 +   [Go Web 开发学习手册](docs/learn-go-web-dev/SUMMARY.md)
 +   [精通 Go Web 服务](docs/master-go-websvc/SUMMARY.md)
 +   [Go 机器学习](docs/ml-go/SUMMARY.md)
++   [Go 编程实用手册](docs/handson-go-prog/SUMMARY.md)
 
 ## 贡献指南
 
