@@ -41,6 +41,7 @@
 
 Go Cookbook
 Go: Building Web Applications
+Go: Design Patterns for Real-World Projects
 -->
 
 本项目需要校对，欢迎大家提交 Pull Request。
